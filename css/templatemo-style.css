@@ -341,22 +341,4 @@ p {
     padding: 25px;
   }
 }
-.container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
-  border: 1px solid #ccc;
-  margin: 10px;
-}
 
-.box {
-  flex-basis: 18%;
-  text-align: center;
-}
-
-.box img {
-  max-width: 100px;
-  max-height: 100px;
-  margin-bottom: 10px;
-}
